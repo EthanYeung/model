@@ -1,0 +1,20 @@
+{
+  "isPublic": true,
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#D6D1F2",
+  "slug": "my-first-application",
+  "unpublishedAppLayout": {
+    "type": "FLUID"
+  },
+  "publishedAppLayout": {
+    "type": "FLUID"
+  },
+  "evaluationVersion": 2,
+  "createdAt": {
+    "seconds": 1646889888,
+    "nanos": 282000000
+  },
+  "deleted": false
+}
